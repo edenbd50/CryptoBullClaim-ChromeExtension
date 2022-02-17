@@ -23,22 +23,24 @@ Chrome extension on Google store: - TBA
 - Download this repo: `git clone https://github.com/edenbd50/CryptoBullClaim-ChromeExtension.git` into your workspace folder
 
 ## 1. Install extension to chrome
-
 - Open chrome browser
-- Press on chrome_extensions_icon.png
+
+- Press on chromeextensions icon
 <img src="https://github.com/edenbd50/CryptoBullClaim-ChromeExtension/blob/main/ExtensionPublish/chrome_extensions_icon.png" alt="demo_webp" >
+
 - Press manage extensions
 <img src="https://github.com/edenbd50/CryptoBullClaim-ChromeExtension/blob/main/ExtensionPublish/manage_extensions.png" alt="demo_webp" >
+
 - Enable developer options
 <img src="https://github.com/edenbd50/CryptoBullClaim-ChromeExtension/blob/main/ExtensionPublish/enable_developer_mode.png" alt="demo_webp" >
+
 - Press `Load unpacked`
 <img src="https://github.com/edenbd50/CryptoBullClaim-ChromeExtension/blob/main/ExtensionPublish/load_unpacked_extension.png" alt="demo_webp" >
+
 - Choose the extension's folder and the plugin is ready.
 
 - Go to https://opensea.io/collection/crypto-bull-society it will automatically detect it.
 <img src="https://github.com/edenbd50/CryptoBullClaim-ChromeExtension/blob/main/ExtensionPublish/Screenshot_1280x800.png" alt="demo_webp" >
-
-
 
 If you found this useful don't be shy you can always buy me a coffee as a thank you 😉☕.
 <br>

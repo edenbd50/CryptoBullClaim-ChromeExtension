@@ -1,0 +1,8 @@
+.claimed{
+    filter: sepia(000%) blur(5px) saturate(300%) brightness(70%) hue-rotate(180deg)
+}
+
+.unclaimed{
+    filter: brightness(120%),
+    
+}

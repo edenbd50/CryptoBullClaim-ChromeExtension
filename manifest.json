@@ -1,0 +1,26 @@
+
+{
+    "manifest_version": 3,
+    "name": "CryptoBullClaim",
+    "description": "Shows if bull calmied is bear",
+    "version": "1.0",
+    "icons":{
+        "16":"/images/icon16.png",
+        "48":"/images/icon48.png",
+        "128":"/images/icon128.png"
+    },
+    "page_action": {
+        "default_icons":{
+            "16":"/images/icon16.png",
+            "48":"/images/icon48.png",
+            "128":"/images/icon128.png"
+        }
+    },
+    "content_scripts":[
+        {
+            "matches": ["https://opensea.io/assets/0x469823c7b84264d1bafbcd6010e9cdf1cac305a3/*","https://opensea.io/collection/crypto-bull-society/*"],
+            "css": ["main.css"],
+            "js": ["content-script.js"]
+        }
+    ]
+}

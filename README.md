@@ -20,7 +20,14 @@ Chrome extension on Google store: - TBA
 
 ## 0. Extension setup
 
-- Download this repo: `git clone https://github.com/edenbd50/CryptoBullClaim-ChromeExtension.git` into your workspace folder
+- Download this repo: 
+	- By Download the zip file and extract into your workspace folder.
+	<img src="https://github.com/edenbd50/CryptoBullClaim-ChromeExtension/blob/main/ExtensionPublish/download_zip.png" alt="demo_webp" >
+	
+	Or 
+	
+	- By Git:
+		- `git clone https://github.com/edenbd50/CryptoBullClaim-ChromeExtension.git` into your workspace folder.
 
 ## 1. Install extension to chrome
 - Open chrome browser

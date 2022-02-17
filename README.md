@@ -1,4 +1,4 @@
-#  CryptoBull-Claim-Check
+#  CryptoBullClaim-ChromeExtension
 
 Chrome extension for CryptoBullSociety, that checks whether a certain Crypto Bull Society's Bull has claimed its Crypto Bear and displays it on Opeansea.io
 

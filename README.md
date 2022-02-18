@@ -2,7 +2,7 @@
 
 Chrome extension for CryptoBullSociety, that checks whether a certain Crypto Bull Society's Bull has claimed its Crypto Bear and displays it on Opeansea.io
 
-Chrome extension on Google store: - TBA
+Chrome extension on Google store: - https://bit.ly/3rZaPqf
 
 <img src="https://github.com/edenbd50/CryptoBullClaim-ChromeExtension/blob/main/ExtensionPublish/demo.webp" alt="demo_webp" >
 	
